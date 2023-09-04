@@ -1,3 +1,20 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "jannesblobel",
+      "id": 72493222,
+      "comment_id": 1704977816,
+      "created_at": "2023-09-04T10:02:19Z",
+      "repoId": 686955219,
+      "pullRequestNo": 1
+    },
+    {
+      "name": "jannesblobel",
+      "id": 72493222,
+      "comment_id": 1704979301,
+      "created_at": "2023-09-04T10:03:18Z",
+      "repoId": 686955219,
+      "pullRequestNo": 1
+    }
+  ]
 }
