@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   CLAAssistant:
-    if: ${{ github.repository_owner	 == 'theNextC' }}
+    if: ${{ github.repository_owner	 == 'theNextACC' }}
     runs-on: ubuntu-latest
     run: echo ${{ github.repository }}
     steps:
