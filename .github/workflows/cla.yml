@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   CLAAssistant:
-    if: ${{ github.repository_owner_id	 == 'theNextACC' }}
+    if: ${{ github.repository_owner	 == 'theNextACC' }}
     runs-on: ubuntu-latest
     steps:
       - name: "CLA Assistant"
